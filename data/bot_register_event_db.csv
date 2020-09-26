@@ -1,0 +1,9 @@
+timestamp,bot,event,username,num_likes,comments,Unnamed: 6
+2020-05-30 13:50:41.423456,TheBotName1,login,,,,
+2020-05-30 17:14:16.986362,TheBotName1,likes,https://www.instagram.com/mattj6918,3.0,,
+2020-05-30 17:17:23.621909,TheBotName1,exception,,,like,
+2020-06-01 00:44:56.995541,TheBotName1,follow,https://www.instagram.com/j.rgeorge51550,,,
+2020-06-01 00:46:39.710030,TheBotName1,likes,https://www.instagram.com/brushfumble,4.0,,
+2020-06-01 00:46:53.258738,TheBotName2,likes,https://www.instagram.com/italoimpressao3d,4.0,,
+2020-06-01 10:18:10.418733,TheBotName2,exception,,,follow,
+2020-06-01 10:21:35.482964,TheBotName2,follow,https://www.instagram.com/lord_gaeo,,,
